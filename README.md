@@ -1,7 +1,7 @@
-sample-apps-ios-cocoapods
+sample-apps-ios-cocoapods-no-shared-schemes
 =========================
 
-A sample iOS app which uses CocoaPods
+A sample iOS app which uses CocoaPods and has no shared schemes
 
 # Notes
 

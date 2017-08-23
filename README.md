@@ -1,0 +1,1 @@
+# sample-apps-ios-cocoapods-no-shared-schemes

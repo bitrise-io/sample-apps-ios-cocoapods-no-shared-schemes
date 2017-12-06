@@ -208,6 +208,7 @@
 				TargetAttributes = {
 					BAAFFED019EE788800F3AC91 = {
 						CreatedOnToolsVersion = 6.0.1;
+						DevelopmentTeam = 72SA8V3WYL;
 					};
 					BAAFFEEC19EE788800F3AC91 = {
 						CreatedOnToolsVersion = 6.0.1;
@@ -421,6 +422,7 @@
 			baseConfigurationReference = 6D832F4E4F1965F2CB930E08 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72SA8V3WYL;
 				INFOPLIST_FILE = SampleAppWithCocoapods/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = NO;
@@ -433,6 +435,7 @@
 			baseConfigurationReference = CEB876B3B976645CB1394D8A /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72SA8V3WYL;
 				INFOPLIST_FILE = SampleAppWithCocoapods/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
